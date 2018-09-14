@@ -4,8 +4,6 @@
   metadata:
     name: mariadb
     namespace: test
-    labels:
-      chart: mariadb
   spec:
     chartGitPath: mariadb
     values:
