@@ -4,8 +4,6 @@
   metadata:
     name: mongodb
     namespace: test
-    labels:
-      chart: mongodb
   spec:
     chartGitPath: mongodb
     releaseName: mongodb-database
